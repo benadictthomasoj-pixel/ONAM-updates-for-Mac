@@ -1,0 +1,5 @@
+# ONAM macOS Release Checksums (SHA-256)
+# Format: <filename>  <sha256>
+# Verify with: shasum -a 256 <filename>
+
+ONAM-1.0.0-arm64.dmg  b8e446977b1eb878c8fd3777f5ea32749dcd7df639337f7230b16a1dd1ab9604
